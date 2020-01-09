@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Gloria+Hallelujah|Open+Sans+Condensed:300|Patrick+Hand|Raleway|Source+Sans+Pro&display=swap');
+
+
+#fullpage
+{
+	height: 100vh;
+	overflow: hidden;
+}
+
+
+#fullpage section
+{
+	height: 100vh
+}
+#fullpage section h1
+{
+	font-family: 'Patrick Hand', cursive;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	line-height: 25vh;
+	font-size: 5em;
+	text-transform: uppercase;
+
+}
+#fullpage section:nth-child(1)
+#fullpage section:nth-child(2)
+#fullpage section:nth-child(3)
+#fullpage section:nth-child(4)
+#fullpage section:nth-child(5)
+
+
+.title1	
+{
+	font-size: 50em;
+}
+
+.patrickhandfont
+{
+	font-family: 'Patrick Hand', cursive;
+}
+.button1
+{
+	color: #fafafa;
+	font-size: 32px;
+	border-radius: 9px;
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+
+}
+.button1:hover
+{
+	font-size: 32px;
+	border-radius: 9px;
+	text-align: center;
+	font-family: 'Patrick Hand', cursive;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+	cursor: pointer;
+	filter: invert(100%);
+}
+.inverted {
+	filter: invert(100%);
+}
